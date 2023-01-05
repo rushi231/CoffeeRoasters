@@ -11,7 +11,7 @@ The users should be able to:
 - Make selections to create a coffee subscription and see an order summary modal of their choices (details provided below)
 
 ## Screen Shot
-
+(./preview.jpg)
 
 ### Expected bahaviour
 
