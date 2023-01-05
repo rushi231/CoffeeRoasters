@@ -12,7 +12,7 @@ The users should be able to:
 
 ## Screen Shot
 (./Screenshot CoffeeRoaster.png)
-![alt text](https://github.com/[rushi231]/[CoffeeRoasters]/blob/[coffeeroasters-subscription-site]/Screenshot CoffeeRoaster.png?raw=true)
+-![alt text](https://github.com/rushi231/CoffeeRoasters/blob/main/coffeeroasters-subscription-site/Screenshot%20CoffeeRoaster.png)?raw=true)
 
 
 ### Expected bahaviour
