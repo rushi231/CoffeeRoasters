@@ -11,8 +11,8 @@ The users should be able to:
 - Make selections to create a coffee subscription and see an order summary modal of their choices (details provided below)
 
 ## Screen Shot
-(./Screenshot CoffeeRoaster.png)
--![alt text](https://github.com/rushi231/CoffeeRoasters/blob/main/coffeeroasters-subscription-site/Screenshot%20CoffeeRoaster.png)?raw=true)
+
+-![alt text](https://github.com/rushi231/CoffeeRoasters/blob/main/coffeeroasters-subscription-site/Screenshot%20CoffeeRoaster.png)
 
 
 ### Expected bahaviour
