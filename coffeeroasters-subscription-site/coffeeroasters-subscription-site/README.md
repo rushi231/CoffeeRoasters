@@ -12,7 +12,7 @@ The users should be able to:
 
 ## Screen Shot
 
--![alt text](https://github.com/rushi231/CoffeeRoasters/blob/main/coffeeroasters-subscription-site/Screenshot%20CoffeeRoaster.png)
+![alt text](https://github.com/rushi231/CoffeeRoasters/blob/main/coffeeroasters-subscription-site/Screenshot%20CoffeeRoaster.png)
 
 
 ### Expected bahaviour
